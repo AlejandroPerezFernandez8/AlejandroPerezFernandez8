@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alejandro Perez Fernandez
 - 👀 I'm interested in programming and learning new technologies.
-- 🌱 I’m currently learning Cross-platform application development
+- 🌱 Currently, I am working on the development of cross-platform applications.
 - 📫 How to reach me Alejandropf1203@gmail.com
